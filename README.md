@@ -1,2 +1,2 @@
 # hexdecoct
-Simple binary to convert decima numbers in Hex, Oct and binary ones.
+Simple binary to convert decimal numbers into Hex, Oct and binary ones.
