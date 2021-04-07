@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 	{
 		num = atoi(argv[1]);
 
-		printf("Número digitado: %d\n\n", num);
+		printf("Número digitado: --> %d <--\n\n", num);
 		printf("Valor decimal = %d\n", num);
 		printf("Valor octal = %o\n", num);
 		printf("Valor hexadecimal = %X\n", num);
