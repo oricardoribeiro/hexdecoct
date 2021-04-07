@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 2)
 	{
-		printf("\nHexdecoct 0.01 (https://www.orr.eti.br)");
+		printf("\nHexdecoct 0.01 (https://www.orr.eti.br/)");
 		printf("\nUsage: hexdecoct [decimal number]\n\n");
 		return 0;
 	}
