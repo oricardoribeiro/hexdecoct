@@ -16,11 +16,11 @@ int main(int argc, char *argv[])
 	{
 		num = atoi(argv[1]);
 
-		printf("Número digitado: --> %d <--\n\n", num);
-		printf("Valor decimal = %d\n", num);
-		printf("Valor octal = %o\n", num);
-		printf("Valor hexadecimal = %X\n", num);
-		printf("Valor em binário = ");
+		printf("\nHexdecoct v0.01\n\n", num);
+		printf("Decimal value = %d\n", num);
+		printf("Octal value = %o\n", num);
+		printf("Hexadecimal value = %X\n", num);
+		printf("Binary = ");
 
 		for (c = 31; c >= 0; c--)
 		{
