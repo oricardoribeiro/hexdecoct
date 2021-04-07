@@ -5,6 +5,6 @@ After downloading and extract it run the make and make clean command as listed b
 
 $ make
 
-To clean up the .o files only type make clean.
+To clean up the .o files only type make clean after compiling it.
 
 $ make clean
