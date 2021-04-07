@@ -1,7 +1,7 @@
 # hexdecoct
 Simple binary to convert decimal numbers into Hex, Oct and binary ones.
 
-After downloading it and extract it run make command.
+After downloading and extract it run the make and make clean command as listed below:
 
 $ make
 
