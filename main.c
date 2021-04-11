@@ -1,8 +1,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// This program will allow you to check quickly the hex, oct and binary values from a
-// deciaml number given in the terminal;
+/*
+ * Copyright (c) 2021 All rights reserved.
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License, version 3,
+ * as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * Authors:
+ *   Onildo R. Ribeiro		<oricardoribeiro.sa@gmail.com>
+ */
 
 int main(int argc, char *argv[])
 {
