@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
  * Copyright (c) 2021 All rights reserved.
  *
@@ -19,6 +16,9 @@
  * Authors:
  *   Onildo R. Ribeiro		<oricardoribeiro.sa@gmail.com>
  */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char *argv[])
 {
