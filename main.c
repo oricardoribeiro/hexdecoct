@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// This program will allow you to check quickly the hex, oct and binary values from a
+// deciaml number given in the terminal;
+
 int main(int argc, char *argv[])
 {
 	int num;
